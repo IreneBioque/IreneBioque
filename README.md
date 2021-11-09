@@ -4,7 +4,10 @@ Soy Irene Bioque, desarrolladora junior de front end. Bienvenidos a mi Git.✨
 
 Sobre mí 👩‍💻
 
-Mientras estudiaba psicología y trabajaba en una librería, me interesé por el mundo de la programación. Empecé a mirar código y a pensar en lo que podía construir, así que decidí empezar el Bootcamp de Adalab donde aprendí mucho sobre Front End. Ahora mismo estoy buscando mi primer trabajo como programadora para seguir aprendiendo y desarrollándome en este apasionante mundo. 
+Soy una joven programadora con muchas ganas de empezar una nueva aventura en el mundo digital. Durante años, me he formado en distintas ramas, debido a mi gran curiosidad, encontrando mi pasión en crear aplicaciones y proyectos para el mundo digital.
+Soy una persona capaz de adaptarse a cualquier circunstancia, sin miedo a equivocarme y a proponer soluciones. Me caracteriza mi empatía, determinación, energía e iniciativa.
+Estoy trabajando en mis propios proyectos personales, donde pongo en práctica nuevos lenguajes y herramientas que aprendo en mi día a día, mientras busco mi primera
+oportunidad laboral como programadora Front End en un ambiente de trabajo que me permita seguir formándome y evolucionando.
 
 ---
 
@@ -14,7 +17,12 @@ I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 
 About me 👩‍💻
 
-While I was studying psychology and working in a bookshop, I became interested in the world of programming. I started looking at code and thinking about what I could build, so I decided to start the Adalab Bootcamp where I learned a lot about Front End. Right now I'm looking for my first job as a programmer to keep learning and developing myself in this exciting world. 
+
+I am a young programmer eager to start a new adventure in the digital world. For years, I have been trained in different branches, due to my great curiosity, finding my passion in creating applications and projects for the digital world.
+I am a person capable of adapting to any circumstance, without fear of making mistakes and proposing solutions. I am characterised by my empathy, determination, energy and initiative.
+I'm working on my own personal projects, where I put into practice new languages and tools that I learn in my day to day, while I'm looking for my first job opportunity as a Front End programmer at
+opportunity as a Front End programmer in a work environment that allows me to continue training and evolving.
+
 
 
 ### Languages and Tools that I've worked with: 
