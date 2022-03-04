@@ -5,7 +5,6 @@ I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 - 🏢 Where I live: Madrid, Spain.
 - 🎬 Which are my hobbies: Drawing, do chrochet, playing video games and ... many more! Ask me 😊
 - 😄 Pronouns: she/her.
-- 💬 My fist language is Spanish, but I can also speak English.
 - 🌱 I’m currently learning React, TypeScript, Node and Next.js.
 - 💼 Before becoming a developer I have studied psicology
 ---
