@@ -1,28 +1,16 @@
 ### Hola 👋
 
-Soy Irene Bioque, desarrolladora junior de front end. Bienvenidos a mi Git.✨
+I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 
 Sobre mí 👩‍💻
 
-Soy una joven programadora con muchas ganas de empezar una nueva aventura en el mundo digital. Durante años, me he formado en distintas ramas, debido a mi gran curiosidad, encontrando mi pasión en crear aplicaciones y proyectos para el mundo digital.
-Soy una persona capaz de adaptarse a cualquier circunstancia, sin miedo a equivocarme y a proponer soluciones. Me caracteriza mi empatía, determinación, energía e iniciativa.
-Estoy trabajando en mis propios proyectos personales, donde pongo en práctica nuevos lenguajes y herramientas que aprendo en mi día a día, mientras busco mi primera
-oportunidad laboral como programadora Front End en un ambiente de trabajo que me permita seguir formándome y evolucionando.
+- 🏢 Where I live: Madrid, Spain.
+- 🎬 Which are my hobbies: Drawing, do chrochet, playing video games and ... many more! Ask me 😊
+- 😄 Pronouns: she/her.
+- 💬 My fist language is Spanish, but I can also speak English.
+- 🌱 I’m currently learning React, TypeScript, Node and Next.js.
 
 ---
-
-### Hi there 👋
-
-I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
-
-About me 👩‍💻
-
-
-I am a young programmer eager to start a new adventure in the digital world. For years, I have been trained in different branches, due to my great curiosity, finding my passion in creating applications and projects for the digital world.
-I am a person capable of adapting to any circumstance, without fear of making mistakes and proposing solutions. I am characterised by my empathy, determination, energy and initiative.
-I'm working on my own personal projects, where I put into practice new languages and tools that I learn in my day to day, while I'm looking for my first job opportunity as a Front End programmer at
-opportunity as a Front End programmer in a work environment that allows me to continue training and evolving.
-
 
 
 ### Languages and Tools that I've worked with: 
