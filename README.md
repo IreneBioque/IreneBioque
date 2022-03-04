@@ -1,4 +1,4 @@
-### Hola 👋
+### Hi there 👋
 
 I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 
