@@ -7,7 +7,7 @@ I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 - 😄 Pronouns: she/her.
 - 💬 My fist language is Spanish, but I can also speak English.
 - 🌱 I’m currently learning React, TypeScript, Node and Next.js.
-
+- 💼 Before becoming a developer I have studied psicology
 ---
 
 
