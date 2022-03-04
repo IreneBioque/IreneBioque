@@ -2,8 +2,6 @@
 
 I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 
-Sobre mí 👩‍💻
-
 - 🏢 Where I live: Madrid, Spain.
 - 🎬 Which are my hobbies: Drawing, do chrochet, playing video games and ... many more! Ask me 😊
 - 😄 Pronouns: she/her.
