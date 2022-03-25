@@ -18,8 +18,8 @@ I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:irenebioque@gmail.com" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/281/281769.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="judit aldeguer mail" height="20" width="40" /></a>
-<a href="https://twitter.com/Irenillab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirandard" height="30" width="40" /></a>
+<a href="mailto:irenebioque@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mail" height="20" width="40" /></a>
+<a href="https://twitter.com/Irenillab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href = 'https://www.linkedin.com/in/irenebioque/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 </p>
 
