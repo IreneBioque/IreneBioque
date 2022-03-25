@@ -22,3 +22,5 @@ I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 <a href="https://twitter.com/Irenillab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirandard" height="30" width="40" /></a>
 <a href = 'https://www.linkedin.com/in/irenebioque/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneBioque&count_private=true&show_icons=true&theme=radical)
