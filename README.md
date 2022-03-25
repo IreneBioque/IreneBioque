@@ -9,6 +9,9 @@ I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 - 💼 Before becoming a developer I have studied psicology
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneBioque&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBioque&layout=compact&theme=radical)
 
 ### Languages and Tools that I've worked with: 
 
@@ -23,6 +26,4 @@ I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 <a href = 'https://www.linkedin.com/in/irenebioque/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneBioque&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBioque&layout=compact&theme=radical)
