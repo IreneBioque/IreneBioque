@@ -25,4 +25,4 @@ I'm Irene Bioque, Junior Front End Developer. Welcome to my Git.✨
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneBioque&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBioque&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneBioque&layout=compact&theme=radical)
